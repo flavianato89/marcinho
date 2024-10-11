@@ -5,7 +5,7 @@
 
     const paragrafo = document.querySelector(".resultado")
 
-    paragrafo.innerHTML = `Resultado: ${numero1 + numero2}`
+    paragrafo.innerHTML = `Resultado: ${numero1 * numero2 * numero3}`
 }
 
 const button = document.querySelector("button")
